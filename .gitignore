@@ -1,0 +1,5 @@
+.composer-docker
+*.swp
+mysql
+
+\.idea/
